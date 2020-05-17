@@ -1,5 +1,5 @@
 # Offline-Map-Server-and-Tile-Generation
-
+![alt text](https://github.com/ddelago/Offline-Map-Server-and-Tile-Generation/blob/master/map.png)
 ## Displaying the map
 - The map page is static and will be rendered using the saved map tiles.
 - The tile data is located in `map_generation/map_server/tiles`.
